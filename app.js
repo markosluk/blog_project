@@ -6,7 +6,7 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require("mongoose");
 
-const homeStartingContent = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et quasi, ullam soluta ducimus dolor aut qui laborum, explicabo magnam maxime, debitis minus delectus nisi similique! Voluptas aliquid, quam voluptatem officia numquam facilis, molestias magni sapiente aliquam similique eligendi quia corrupti."
+const homeStartingContent = "Llorem ipsum dolor sit, amet consectetur adipisicing elit. Et quasi, ullam soluta ducimus dolor aut qui laborum, explicabo magnam maxime, debitis minus delectus nisi similique! Voluptas aliquid, quam voluptatem officia numquam facilis, molestias magni sapiente aliquam similique eligendi quia corrupti."
 const aboutContent = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et quasi, ullam soluta ducimus dolor aut qui laborum, explicabo magnam maxime, debitis minus delectus nisi similique! Voluptas aliquid, quam voluptatem officia numquam facilis, molestias magni sapiente aliquam similique eligendi quia corrupti.";
 const contactContent = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et quasi, ullam soluta ducimus dolor aut qui laborum, explicabo magnam maxime, debitis minus delectus nisi similique! Voluptas aliquid, quam voluptatem officia numquam facilis, molestias magni sapiente aliquam similique eligendi quia corrupti.";
 
